@@ -1,0 +1,2 @@
+C:\Users\Teppo\OneDrive\Työpöytä\shakki\Debug\shakki.exe
+C:\Users\Teppo\OneDrive\Työpöytä\GitChess\ChessCplus\Debug\shakki.exe
